@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "apriori", "apriori\apriori.dwproj", "{5A4AA4C9-DA61-44DB-956E-8F1B90C0A8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4AA4C9-DA61-44DB-956E-8F1B90C0A8EE}.Development|Default.ActiveCfg = Development
+		{5A4AA4C9-DA61-44DB-956E-8F1B90C0A8EE}.Development|Default.Build.0 = Development
+		{5A4AA4C9-DA61-44DB-956E-8F1B90C0A8EE}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F439B065-395B-47C1-81A4-9E7592DBB246}
+	EndGlobalSection
+EndGlobal
